@@ -1,4 +1,4 @@
-# Welcome to your My project
+# Welcome to My project
 
 ## Project info
 
